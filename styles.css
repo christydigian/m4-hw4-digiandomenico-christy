@@ -1,1 +1,45 @@
+body {
+    background-color: rgb(34, 31, 52);
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    margin: auto
+}
 
+header {
+    margin: 20px 0;
+    font-size: medium;
+}
+
+a{
+    color: beige;
+}
+
+h1 {
+    font-size: 90px;
+    color: rgb(234, 133, 24);
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(214, 214, 134);
+}
+
+h1, h2 {
+    font-family: cursive ;
+    text-align: center;
+}
+
+div.center-image {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.image-padding {
+    padding-bottom: 50px;
+}
+
+div p {
+    color: rgb(213, 213, 207);;
+}
